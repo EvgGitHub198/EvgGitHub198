@@ -1,4 +1,15 @@
 <h1 align="center">Hi there, I'm Evgeny </h1>
 <h3 align="center">Junior backend(Python) developer from Russia 🇷🇺</h3>
 
-<img src="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" width="200">
+<h3 align="left">My skills:</h3>
+<ul type="none">
+  <li><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_wordmark_logo_icon_146367.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width="80"></li>
+  <li><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="80"></li>
+</ul>
