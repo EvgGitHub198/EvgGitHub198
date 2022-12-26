@@ -3,6 +3,6 @@
 
 <h3>My skills:</h3>
 <ul>
-<li>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</li>
+<li><h2>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</h2></li>
 
 </ul>
