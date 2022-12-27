@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Evgeny </h1>
 <h3 align="center">Junior backend(Python) developer from Saint-Petersburg 🇷🇺</h3>
 
-<h3 align="left">My skills:</h3>
+<h3 align="left">My Skills:</h3>
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="60">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="60">
