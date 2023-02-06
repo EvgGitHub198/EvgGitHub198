@@ -20,6 +20,7 @@
 <hr>
 <h3 align="left">My Projects:</h3>
 
-<a href="https://web-production-0868.up.railway.app">Job finder</a>
-<a href="https://web-production-36b5.up.railway.app">To do app</a>
+<p><a href="https://web-production-0868.up.railway.app">Job finder</a></p>
+
+<p><a href="https://web-production-36b5.up.railway.app">To do app</a></p>
 
