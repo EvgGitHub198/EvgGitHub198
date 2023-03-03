@@ -24,5 +24,5 @@
 
 <p><a href="https://web-production-36b5.up.railway.app">To do app</a></p>
 
-<p><a href="http://evg198.pythonanywhere.com">Shop</a></p>
+<p><a href="http://evgprojects.pythonanywhere.com/cart/">Shop</a></p>
 
