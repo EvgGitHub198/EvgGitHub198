@@ -19,10 +19,11 @@
 <a href="https://evggithub198.github.io/resume/">Click me!</a>
 <hr>
 <h3 align="left">My Projects:</h3>
+<p><a href="https://transcendent-fenglisu-50ac45.netlify.app">Vue shop</a></p>
 
-<p><a href="https://web-production-0868.up.railway.app">Job finder</a></p>
+<p><a href="https://www.pythonanywhere.com/user/DjVueShop/">DRF shop</a></p>
 
-<p><a href="https://web-production-36b5.up.railway.app">To do app</a></p>
+<p><a href="http://mtodoapp.pythonanywhere.com">To do app</a></p>
 
-<p><a href="http://evgprojects.pythonanywhere.com">Shop</a></p>
+<p><a href="https://evgprojects.pythonanywhere.com">Phone Shop</a></p>
 
