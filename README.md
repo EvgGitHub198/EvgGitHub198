@@ -21,9 +21,9 @@
 <h3 align="left">My Projects:</h3>
 <p><a href="https://transcendent-fenglisu-50ac45.netlify.app">Vue shop</a></p>
 
-<p><a href="https://www.pythonanywhere.com/user/DjVueShop/">DRF shop</a></p>
+<p><a href="https://DjVueShop.pythonanywhere.com">DRF shop</a></p>
 
-<p><a href="http://mtodoapp.pythonanywhere.com">To do app</a></p>
+<p><a href="https://mtodoapp.pythonanywhere.com">To do app</a></p>
 
 <p><a href="https://evgprojects.pythonanywhere.com">Phone Shop</a></p>
 
