@@ -16,7 +16,7 @@
 </p>
 <hr>
 <h3 align="left">My Curriculam vitae:</h3>
-<a href="https://evggithub198.github.io/resume/">Click me!</a>
+  <a href="https://evggithub198.github.io/Curriculam-Vitae/">Click me!</a>
 <hr>
 <h3 align="left">My Projects:</h3>
 <p><a href="https://transcendent-fenglisu-50ac45.netlify.app">Vue shop</a></p>
