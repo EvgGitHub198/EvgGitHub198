@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Evgeny </h1>
-<h3 align="center">FullStack web developer (Vue+Django) from Saint-Petersburg 🇷🇺</h3>
+<h3 align="center">FullStack web developer from Saint-Petersburg 🇷🇺</h3>
 
 <h3 align="left">My Skills:</h3>
 <p align="center">
